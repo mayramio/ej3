@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Arial, sans-serif ;
+    background-color: #edece9 ;
+    margin: 10px;
+}
+
+.links a {
+    color: #ef6a1c;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.img-camping {
+    width: 100%;
+}
+
+main {
+    color: #775548;
+}
+
+h1 {
+    font-size: 35px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    color: #e5dbd5;
+    background-color: #775548;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+main a {
+    color:#ef691a ;
+    font-weight: bold;
+}
+
+#nacion {
+    color: #3caac3;
+}
+
+#pag12 {
+    color: #ef4c50;
+}
